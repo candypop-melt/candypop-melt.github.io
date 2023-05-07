@@ -1,9 +1,9 @@
 ---
-title:  "A Craftsman Workshop"
+title:  "かえてみた"
 subtitle: "It's always a bit messy"
 author: "n"
 avatar: "img/authors/nadun.jpg"
-image: "img/f.jpg"
+image: "img/jelly fish.jpg"
 date:   2015-04-25 12:12:12
 ---
 
