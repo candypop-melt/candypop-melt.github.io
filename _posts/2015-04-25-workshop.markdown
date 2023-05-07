@@ -1,6 +1,6 @@
 ---
 title:  "かえてみた"
-subtitle: "くらげにかわってるかな"
+subtitle: "くらげにかえたい"
 author: "n"
 avatar: "img/authors/nadun.jpg"
 image: "img/f.jpg"
