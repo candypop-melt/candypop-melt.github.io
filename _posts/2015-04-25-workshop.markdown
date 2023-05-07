@@ -3,7 +3,7 @@ title:  "かえてみた"
 subtitle: "くらげにかわってるかな"
 author: "n"
 avatar: "img/authors/nadun.jpg"
-image: "img/jelly fish.jpg"
+image: "img/f.jpg"
 date:   2023-05-07 12:12:12
 ---
 
