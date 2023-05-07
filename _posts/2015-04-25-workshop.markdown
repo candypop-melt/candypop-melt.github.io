@@ -7,7 +7,7 @@ image: "img/jerry fish.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-### my rofile
+### my profile
 age 23  
 birthday 3-10
 
