@@ -1,10 +1,10 @@
 ---
 title:  "かえてみた"
-subtitle: "It's always a bit messy"
+subtitle: "くらげにかわってるかな"
 author: "n"
 avatar: "img/authors/nadun.jpg"
 image: "img/jelly fish.jpg"
-date:   2015-04-25 12:12:12
+date:   2023-05-07 12:12:12
 ---
 
 ### Dolor sit amet?
