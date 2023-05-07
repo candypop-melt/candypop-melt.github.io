@@ -9,7 +9,7 @@ date:   2015-04-25 12:12:12
 
 ### my rofile
 age 23
-birthday 3/10
+birthday 3-10
 
 
 ### Aliquam suscipit.
