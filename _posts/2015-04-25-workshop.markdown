@@ -3,7 +3,7 @@ title:  "かえてみた"
 subtitle: "くらげにかえたい"
 author: "n"
 avatar: "img/authors/nadun.jpg"
-image: "img/.jpg"
+image: "img/jerry fish.jpg"
 date:   2015-04-25 12:12:12
 ---
 
